@@ -19,7 +19,6 @@ O objetivo é documentar minha evolução ao longo do curso.
 ## 🎯 Objetivo
 
 * Registrar minha evolução como programador
-* Praticar conceitos aprendidos na faculdade
 * Construir uma boa base para oportunidades profissionais futuras
 
 ---
