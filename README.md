@@ -36,7 +36,7 @@ O objetivo é documentar minha evolução ao longo do curso.
 
 ---
 
-## Atualizações do repositório
+## 🔄 Atualizações do repositório
 
 Este repositório será atualizado com novos conteúdos conforme avanço nos estudos, até a finalização da graduação.
 
