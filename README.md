@@ -2,5 +2,5 @@
 ---
 Repositório contendo exercícios e projetos feitos durante a graduação.
 
-📌Universidade - Univali \/n
+📌Universidade - Univali \n
 📚Curso - Ciência da Computação
