@@ -2,7 +2,7 @@
 
 ## 📌 Sobre o repositório
 
-Este repositório contém exercícios, anotações e projetos desenvolvidos durante minha graduação em Ciência da Computação.
+Este repositório contém exercícios e projetos desenvolvidos durante minha graduação em Ciência da Computação.
 
 O objetivo é documentar minha evolução ao longo do curso.
 
