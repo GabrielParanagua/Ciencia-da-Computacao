@@ -1,29 +1,50 @@
-# 💻Ciência da Computacão
----
-Repositório contendo exercícios e projetos feitos durante a graduação.
+# 💻 Ciência da Computação
 
-📌Universidade - Univali
+## 📌 Sobre o repositório
 
-📚Curso - Ciência da Computação
+Este repositório contém exercícios, anotações e projetos desenvolvidos durante minha graduação em Ciência da Computação.
 
-Período - 4°
-
---
-
-#Objetivo do repositório
-
-Registrar minha evolução durante o curso.
-
---
-
-#Linguagens usadas
-
-C++
+O objetivo é documentar minha evolução ao longo do curso, consolidando na prática os conhecimentos adquiridos.
 
 ---
 
-#Autor
+## 🎓 Formação
+
+* Universidade: UNIVALI
+* Curso: Ciência da Computação
+* Período atual: 4º
+
+---
+
+## 🎯 Objetivo
+
+* Registrar minha evolução como programador
+* Praticar conceitos aprendidos na faculdade
+* Construir uma base sólida para oportunidades profissionais futuras
+
+---
+
+## 🛠️ Tecnologias utilizadas
+
+* C++
+
+---
+
+## 📂 Conteúdo do repositório
+
+* 📁 Algoritmos
+* 📁 Estruturas de Dados
+* 📁 Exercícios
+* 📁 Projetos
+
+---
+
+## 🚀 Em constante evolução
+
+Este repositório será atualizado frequentemente com novos conteúdos conforme avanço nos estudos.
+
+---
+
+## 👨‍💻 Autor
 
 Gabriel Paranaguá
-
-
