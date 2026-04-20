@@ -2,9 +2,8 @@
 
 ## 📌 Sobre o repositório
 
-Este repositório contém exercícios e projetos desenvolvidos durante minha graduação em Ciência da Computação.
-
-O objetivo é documentar minha evolução ao longo do curso.
+Estou usando este repositório como uma forma de acompanhar minha evolução na programação, colocando em prática as coisas que aprendo durante o curso.
+O repositório irá conter meus trabalhos, exercícios e projetos que desenvolverei durante o curso.
 
 ---
 
